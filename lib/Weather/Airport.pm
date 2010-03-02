@@ -3,10 +3,9 @@ package Weather::Airport;
 use 5.008000;
 use strict;
 use warnings;
-
 use LWP::UserAgent;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
