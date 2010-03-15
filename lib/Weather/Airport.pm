@@ -5,7 +5,7 @@ use strict;
 use warnings;
 use LWP::UserAgent;
 
-our $VERSION = '0.02';
+our $VERSION = '0.01';
 
 =head1 NAME
 
